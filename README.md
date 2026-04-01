@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Brand_Logo_Editable_Goni_White Version.svg" width="180"/>
+</p>
+
 <h1 align="center">Hi! I'm Steven 👋</h1>
 
 <p align="center">
