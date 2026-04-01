@@ -75,10 +75,8 @@ I'm always interested in collaborating on projects related to **statistics, data
 
 <img src="https://streak-stats.demolab.com?user=StevenGGoni&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
 
-<img src="https://github-profile-trophy.vercel.app?username=StevenGGoni&theme=dracula&column=4&margin-w=10&margin-h=10"/>
-
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/StevenGGoni/StevenGGoni/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/StevenGGoni/StevenGGoni/output/github-snake.svg" />
