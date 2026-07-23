@@ -6,10 +6,12 @@
 
 <p align="center">
 Industrial Engineer | Statistics | Data Analysis | Optimization
-</p>
+
 
 <img src="https://img.shields.io/badge/C1-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
 <img src="https://img.shields.io/badge/Native-5A82F0?&label=Spanish&labelColor=131b39&style=for-the-badge"> <br> <br>
+
+</p>
 
 <p align="left">
 I'm an Industrial Engineer with a strong interest in statistics, design of experiments, data analysis, and optimization.  
