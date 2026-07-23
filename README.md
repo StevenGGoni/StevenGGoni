@@ -29,17 +29,6 @@ My main focus is applying statistical methods and optimization techniques to und
 
 </div>
 
----
-## 🔬 Areas of Interest
-
-* 🧪 Design of Experiments (DoE)
-* 📊 Statistical Modeling
-* ⚙️ Optimization & Operations Research
-* 📈 Data Analysis
-* 🏭 Process Improvement and Systems Engineering
-
----
-
 ## 🧰 Tools & Technologies
 
 <div align="center">
@@ -51,6 +40,15 @@ My main focus is applying statistical methods and optimization techniques to und
 <img src="https://skillicons.dev/icons?i=py" height="60" />
 
 </div>
+
+---
+## 🔬 Areas of Interest
+
+* 🧪 Design of Experiments (DoE)
+* 📊 Statistical Modeling
+* ⚙️ Optimization & Operations Research
+* 📈 Data Analysis
+* 🏭 Process Improvement and Systems Engineering
 
 ---
 
@@ -74,6 +72,9 @@ https://github.com/StevenGGoni
 
 LinkedIn
 https://www.linkedin.com/in/sggoni/
+
+Website
+https://stevenggoni.github.io/
 
 </p>
 
