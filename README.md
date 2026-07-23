@@ -31,8 +31,6 @@ My main focus is applying statistical methods and optimization techniques to und
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenGGoni&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
-## 📊 GitHub Activity
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=StevenGGoni&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
@@ -41,8 +39,6 @@ My main focus is applying statistical methods and optimization techniques to und
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=StevenGGoni&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117&hide_border=false&border_color=61DAFB"></a> 
 
 </div>
-
-## 🧰 Tools & Technologies
 
 <div align="center">
 
@@ -55,6 +51,7 @@ My main focus is applying statistical methods and optimization techniques to und
 </div>
 
 ---
+
 ## 🔬 Areas of Interest
 
 * 🧪 Design of Experiments (DoE)
