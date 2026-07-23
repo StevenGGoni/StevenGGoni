@@ -5,12 +5,7 @@
 <h1 align="center">Hi! I'm Steven 👋</h1>
 
 <p align="center">
-Industrial Engineer | Statistics | Data Analysis | Optimization
-
-<br><br>
-
-<img src="https://img.shields.io/badge/C1-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
-<img src="https://img.shields.io/badge/Native-5A82F0?&label=Spanish&labelColor=131b39&style=for-the-badge"> <br> <br>
+Industrial Engineer | Statistics | | Design of Experiments | Data Analysis | Optimization
 
 </p>
 
@@ -21,6 +16,18 @@ I enjoy building models, analyzing systems, and turning data into insights that 
 My main focus is applying statistical methods and optimization techniques to understand complex systems and improve processes.
 
 </p>
+
+<div align=center>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C1-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
+<img src="https://img.shields.io/badge/Native-5A82F0?&label=Spanish&labelColor=131b39&style=for-the-badge"> 
+
+<br> <br>
+
+</div>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenGGoni&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
