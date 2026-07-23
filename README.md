@@ -19,17 +19,19 @@ My main focus is applying statistical methods and optimization techniques to und
 
 <div align=center>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/B2-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
 <img src="https://img.shields.io/badge/Native-5A82F0?&label=Spanish&labelColor=131b39&style=for-the-badge"> 
 
-<br> <br>
+<br>
 
 </div>
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenGGoni&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+
+<br>
 
 <div align="center">
 
@@ -39,6 +41,8 @@ My main focus is applying statistical methods and optimization techniques to und
   <a href="https://www.github.com/StevenGGoni"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=StevenGGoni&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117&hide_border=false&border_color=61DAFB"></a> 
 
 </div>
+
+<br>
 
 <div align="center">
 
