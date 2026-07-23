@@ -23,6 +23,18 @@ My main focus is applying statistical methods and optimization techniques to und
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=StevenGGoni&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/StevenGGoni/StevenGGoni/output/github-snake.svg" />
+
 ## 🔬 Areas of Interest
 
 * 🧪 Design of Experiments (DoE)
@@ -73,15 +85,3 @@ https://www.linkedin.com/in/sggoni/
 I'm always interested in collaborating on projects related to **statistics, data analysis, and optimization**.
 
 ---
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=StevenGGoni&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/StevenGGoni/StevenGGoni/output/github-snake.svg" />
