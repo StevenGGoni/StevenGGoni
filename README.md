@@ -8,13 +8,18 @@
 Industrial Engineer | Statistics | Data Analysis | Optimization
 </p>
 
+<img src="https://img.shields.io/badge/C1-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
+<img src="https://img.shields.io/badge/Native-5A82F0?&label=Spanish&labelColor=131b39&style=for-the-badge"> <br> <br>
+
 <p align="left">
-I'm an Industrial Engineer with a strong interest in statistics, data analysis, and optimization.  
+I'm an Industrial Engineer with a strong interest in statistics, design of experiments, data analysis, and optimization.  
 I enjoy building models, analyzing systems, and turning data into insights that improve decision-making.
 
 My main focus is applying statistical methods and optimization techniques to understand complex systems and improve processes.
 
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenGGoni&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 ---
 
