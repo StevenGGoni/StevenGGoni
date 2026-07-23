@@ -7,6 +7,7 @@
 <p align="center">
 Industrial Engineer | Statistics | Data Analysis | Optimization
 
+<br><br>
 
 <img src="https://img.shields.io/badge/C1-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
 <img src="https://img.shields.io/badge/Native-5A82F0?&label=Spanish&labelColor=131b39&style=for-the-badge"> <br> <br>
