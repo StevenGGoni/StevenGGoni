@@ -95,3 +95,8 @@ I'm always interested in collaborating on projects related to **statistics, data
 ---
 
 <img src="https://raw.githubusercontent.com/StevenGGoni/StevenGGoni/output/github-snake.svg" />
+
+<div align=right>
+   <img height=25px src="https://komarev.com/ghpvc/?username=checorazza&color=248bb4&style=for-the-badge">
+  <img height=25px src="https://img.shields.io/github/followers/StevenGGoni?label=Followers&style=for-the-badge&color=61DAFB&labelColor=131b39" alt="Followers"/>
+</div>
