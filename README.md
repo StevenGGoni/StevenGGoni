@@ -21,7 +21,7 @@ My main focus is applying statistical methods and optimization techniques to und
 
 <br><br>
 
-<img src="https://img.shields.io/badge/C1-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
+<img src="https://img.shields.io/badge/B2-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
 <img src="https://img.shields.io/badge/Native-5A82F0?&label=Spanish&labelColor=131b39&style=for-the-badge"> 
 
 <br> <br>
@@ -60,7 +60,6 @@ My main focus is applying statistical methods and optimization techniques to und
 * 📈 Data Analysis
 * 🏭 Process Improvement and Systems Engineering
 
----
 
 ## 🚀 Projects
 
@@ -71,7 +70,6 @@ Here are some areas where I apply statistics and analytical methods:
 * ⚙️ **Optimization Models** — solving decision problems using operations research
 * 🧪 **Design of Experiments (DoE)** — experimental design and analysis
 
----
 
 ## 📫 Connect with me
 
