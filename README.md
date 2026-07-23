@@ -21,8 +21,6 @@ My main focus is applying statistical methods and optimization techniques to und
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenGGoni&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -32,9 +30,6 @@ My main focus is applying statistical methods and optimization techniques to und
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/StevenGGoni/StevenGGoni/output/github-snake.svg" />
-
 ## 🔬 Areas of Interest
 
 * 🧪 Design of Experiments (DoE)
@@ -85,3 +80,5 @@ https://www.linkedin.com/in/sggoni/
 I'm always interested in collaborating on projects related to **statistics, data analysis, and optimization**.
 
 ---
+
+<img src="https://raw.githubusercontent.com/StevenGGoni/StevenGGoni/output/github-snake.svg" />
