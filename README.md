@@ -5,7 +5,7 @@
 <h1 align="center">Hi! I'm Steven 👋</h1>
 
 <p align="center">
-Industrial Engineer | Statistics | | Design of Experiments | Data Analysis | Optimization
+Industrial Engineer | Statistics | Design of Experiments | Data Analysis | Optimization
 
 </p>
 
